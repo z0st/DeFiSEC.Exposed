@@ -1,0 +1,214 @@
+import {
+  Box,
+  Text,
+  Link,
+  TableContainer,
+  TableCaption,
+  Table,
+  Thead,
+  Tr,
+  Th,
+  Tbody,
+  Td,
+  Tfoot,
+  Accordion,
+  AccordionItem,
+  AccordionButton,
+  AccordionPanel,
+  AccordionIcon,
+  CircularProgress,
+  CircularProgressLabel,
+  Button,
+  ArrowForwardIcon,
+  HStack,
+  TagLeftIcon,
+  TagLabel,
+  Tag,
+  Grid,
+  GridItem,
+} from "@chakra-ui/react";
+
+import CTASection from "lib/components/samples/CTASection";
+import SomeImage from "lib/components/samples/SomeImage";
+import SomeText from "lib/components/samples/SomeText";
+
+import InfiniteScroll from "react-infinite-scroll-component";
+import { useState } from "react";
+
+import protocols_data from 'protocols_data';
+import emails_score from 'email_score17-08-22';
+
+import { Divider } from '@chakra-ui/react'
+
+import { ReactElement, JSXElementConstructor, ReactFragment, ReactPortal } from "react";
+import { AddIcon } from "@chakra-ui/icons";
+import { RiMoneyDollarBoxFill, RiMoneyDollarBoxLine, RiMoneyDollarCircleFill, RiMoneyDollarCircleLine } from "react-icons/ri";
+import { AiFillDollarCircle, AiFillTwitterCircle, AiOutlineDollar, AiOutlineDollarCircle, AiTwotoneDollar } from "react-icons/ai";
+
+const Home = () => {
+
+  const [count, setCount] = useState(10);
+
+  const mappings = () => {
+      <Grid
+        mb={20}
+        h='410px'
+        templateRows='repeat(2, 1fr)'
+        templateColumns='repeat(5, 1fr)'
+        gap={1}
+      >
+        <GridItem borderRadius={"11px"} rowSpan={1} colSpan={5} bg='tomato'>
+          <Box padding={"28px"} margin={"0px 0px"} flex="1">
+            <img width="45px" style={{ borderRadius: 128, marginRight: 18 }} key={protocols_data.logo} src={protocols_data.logo} />
+            <Text w={"-webkit-fit-content"} borderRadius={11} fontWeight={"medium"} fontSize={"2xl"} textAlign="left" key={protocols_data.name}>{protocols_data.name}</Text>
+            <HStack spacing={4}>
+              <Tag size={"lg"} variant='subtle' colorScheme='orange'>
+                <TagLeftIcon boxSize='26px' as={AiOutlineDollarCircle} />
+                <TagLabel>TVL: {kFormatter(protocols_data.tvl)}</TagLabel>
+              </Tag>
+            </HStack>
+            <Text mt={4} fontSize={14} textAlign={"left"} key={protocols_data.description}>{protocols_data.description}</Text>
+          </Box>
+        </GridItem>
+
+        {emails_score.slice(0, 1).map(email_score =>
+          <GridItem borderRadius={"11px"} position={"relative"} colSpan={1} bg='#232e40'>
+            <Text mt={"20px"} textAlign={"center"} color={"white"} mr={1} fontSize={"sm"} fontWeight={"light"}>Email</Text>
+            <center>
+              <CircularProgress
+              mt={"20px"}
+              size="72px"
+              thickness="5px"
+              value={email_score.email_score * 10}
+              color="tomato"
+              >
+                <CircularProgressLabel fontWeight={"bold"} color={"white"}>{email_score.email_score}</CircularProgressLabel>
+              </CircularProgress>
+            </center>
+          </GridItem>
+        )}
+        <GridItem borderRadius={"11px"} position={"relative"} colSpan={1} bg='#232e40'>
+          <Text mt={"20px"} textAlign={"center"} color={"white"} mr={1} fontSize={"sm"} fontWeight={"light"}>DNS</Text>
+          <center>
+            <CircularProgress
+            mt={"20px"}
+            size="72px"
+            thickness="5px"
+            value={4}
+            color="tomato"
+            >
+              <CircularProgressLabel fontWeight={"bold"} color={"white"}>4</CircularProgressLabel>
+            </CircularProgress>
+          </center>
+        </GridItem>
+        <GridItem borderRadius={"11px"} position={"relative"} colSpan={1} bg='#232e40'>
+          <Text mt={"20px"} textAlign={"center"} color={"white"} mr={1} fontSize={"sm"} fontWeight={"light"}>Certificates</Text>
+          <center>
+            <CircularProgress
+            mt={"20px"}
+            size="72px"
+            thickness="5px"
+            value={4}
+            color="tomato"
+            >
+              <CircularProgressLabel fontWeight={"bold"} color={"white"}>4</CircularProgressLabel>
+            </CircularProgress>
+          </center>
+        </GridItem>
+        <GridItem borderRadius={"11px"} position={"relative"} colSpan={1} bg='#232e40'>
+          <Text mt={"20px"} textAlign={"center"} color={"white"} mr={1} fontSize={"sm"} fontWeight={"light"}>Services</Text>
+          <center>
+            <CircularProgress
+            mt={"20px"}
+            size="72px"
+            thickness="5px"
+            value={4}
+            color="tomato"
+            >
+              <CircularProgressLabel fontWeight={"bold"} color={"white"}>4</CircularProgressLabel>
+            </CircularProgress>
+          </center>
+        </GridItem>
+        <GridItem borderRadius={"11px"} position={"relative"} colSpan={1} bg='#141414'>
+          <Text mt={"20px"} textAlign={"center"} color={"white"} mr={1} fontSize={"sm"} fontWeight={"bold"}>Global score</Text>
+          <center>
+            <CircularProgress
+            mt={"20px"}
+            size="72px"
+            thickness="5px"
+            value={4}
+            color="tomato"
+            >
+              <CircularProgressLabel fontWeight={"bold"} color={"white"}>4</CircularProgressLabel>
+            </CircularProgress>
+          </center>
+        </GridItem>
+        <GridItem borderRadius={"11px"} position={"relative"} colSpan={5} bg='white'>
+          <center>
+          <Button w={"full"} bg={"white"} color={"black"} variant='solid'>
+            Do you want the full report? Send us a DM on Twitter!
+          </Button>
+          </center>
+        </GridItem>
+      </Grid>
+  }
+
+  const list_of_protocols = () => {
+    for(let i = 0; i < count; i++) {
+      let obj = protocols_data[i];
+    }
+  }
+
+  let C = protocols_data.concat(emails_score);
+
+  console.log(C)
+
+  const addMore = () => {  
+    setCount(count+10);
+  }
+
+  function kFormatter(num) {
+    return Math.abs(num) > 999
+      ? Math.sign(num) * (Math.abs(num) / 1000000000).toFixed(1) + "B"
+      : Math.sign(num) * Math.abs(num);
+  }
+
+  return (
+    <Box alignItems="center" minHeight="10vh" gap={20} mb={8} w="full">
+      <Text mt={20} mb={20} fontWeight="medium" fontSize="3xl">
+        <Link color="orangered" fontWeight="bold">
+          Security scoring
+        </Link>{" "}
+        of DeFi Protocols
+      </Text>
+      <Box w="fit-content">
+        <Box>
+          {C.slice(0, count).map(security_data =>
+            <div style={{ marginTop: 254 }}>
+            {/* for(let i = 0; i < count; i++) {
+          let obj = protocols_data[i];
+        } */} <img style={{ borderRadius: 28 }} width={54} src={security_data.logo}></img>
+              <Text mt={11} w={"-webkit-fit-content"} borderRadius={11} fontWeight={"medium"} fontSize={"2xl"} textAlign="left" key={security_data.name}>{security_data.name}</Text>
+              <HStack spacing={4}>
+                <Tag size={"lg"} variant='subtle' colorScheme='orange'>
+                  <TagLeftIcon boxSize='26px' as={AiOutlineDollarCircle} />
+                  <TagLabel>TVL: {kFormatter(security_data.tvl)}</TagLabel>
+                </Tag>
+              </HStack>
+              {console.log(security_data.email_score)}
+            </div>
+          )}
+        </Box>
+        <Button w="full" mt={18} colorScheme="gray" variant="outline">
+          Do you want the full report? Send us a DM!
+        </Button>
+        <center>
+          <Button mt={11} onClick={addMore}>Load more!</Button>
+          <Button mt={11} onClick={list_of_protocols}>Load more!</Button>
+        </center>
+      </Box>
+    </Box>
+  );
+};
+
+export default Home;
