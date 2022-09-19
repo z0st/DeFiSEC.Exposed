@@ -1,0 +1,5563 @@
+[{
+    "domain": "makerdao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "polygon.technology", 
+    "dnssec_score": 3
+},{
+    "domain": "lido.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "curve.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "uniswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "wbtc.network", 
+    "dnssec_score": 3
+},{
+    "domain": "aave.com\r", 
+    "dnssec_score": 3
+},{
+    "domain": "www.convexfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "justlend.just.network", 
+    "dnssec_score": 3
+},{
+    "domain": "pancakeswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "compound.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "just.networktoken", 
+    "dnssec_score": 3
+},{
+    "domain": "instadapp.io", 
+    "dnssec_score": 3
+},{
+    "domain": "multichain.org", 
+    "dnssec_score": 3
+},{
+    "domain": "balancer.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.arrakis.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "frax.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "aave.com", 
+    "dnssec_score": 3
+},{
+    "domain": "juststable.tronscan.org#login", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hbtc.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sunswap.com#home", 
+    "dnssec_score": 3
+},{
+    "domain": "venus.io", 
+    "dnssec_score": 3
+},{
+    "domain": "stargate.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sushi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "keep3r.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.alpacafinance.org", 
+    "dnssec_score": 3
+},{
+    "domain": "dydx.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "synthetix.io", 
+    "dnssec_score": 3
+},{
+    "domain": "yearn.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "vvs.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.liquity.org", 
+    "dnssec_score": 3
+},{
+    "domain": "portalbridge.com", 
+    "dnssec_score": 3
+},{
+    "domain": "rocketpool.net", 
+    "dnssec_score": 3
+},{
+    "domain": "abracadabra.money", 
+    "dnssec_score": 3
+},{
+    "domain": "sun.io", 
+    "dnssec_score": 3
+},{
+    "domain": "defichain.comdex", 
+    "dnssec_score": 3
+},{
+    "domain": "gmx.io", 
+    "dnssec_score": 3
+},{
+    "domain": "polymm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.poly.network", 
+    "dnssec_score": 3
+},{
+    "domain": "beefy.com", 
+    "dnssec_score": 3
+},{
+    "domain": "quickswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "aura.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sushi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "bridge.orbitchain.io", 
+    "dnssec_score": 3
+},{
+    "domain": "pando.im", 
+    "dnssec_score": 3
+},{
+    "domain": "olympusdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "biswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "solend.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "unicrypt.network", 
+    "dnssec_score": 3
+},{
+    "domain": "marinade.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "xdaichain.com", 
+    "dnssec_score": 3
+},{
+    "domain": "tornado.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "app.ref.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tectonic.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "benqi.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "projectserum.com", 
+    "dnssec_score": 3
+},{
+    "domain": "armor.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.coinwind.pro", 
+    "dnssec_score": 3
+},{
+    "domain": "www.euler.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pinksale.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "platypus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "parallel.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "nexusmutual.io", 
+    "dnssec_score": 3
+},{
+    "domain": "synapseprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "osmosis.zone", 
+    "dnssec_score": 3
+},{
+    "domain": "klayswap.comdashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "raydium.io", 
+    "dnssec_score": 3
+},{
+    "domain": "stacks.co", 
+    "dnssec_score": 3
+},{
+    "domain": "b.watch#", 
+    "dnssec_score": 3
+},{
+    "domain": "www.atrix.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cbridge.celer.network#transfer", 
+    "dnssec_score": 3
+},{
+    "domain": "apps.acala.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.traderjoexyz.com", 
+    "dnssec_score": 3
+},{
+    "domain": "loopring.org#", 
+    "dnssec_score": 3
+},{
+    "domain": "vires.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "amptoken.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.team.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kava.io", 
+    "dnssec_score": 3
+},{
+    "domain": "maiar.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.chainge.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mdex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "tulip.garden", 
+    "dnssec_score": 3
+},{
+    "domain": "thorchain.org", 
+    "dnssec_score": 3
+},{
+    "domain": "vectorfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "renproject.io", 
+    "dnssec_score": 3
+},{
+    "domain": "stakewise.io", 
+    "dnssec_score": 3
+},{
+    "domain": "spooky.fi#", 
+    "dnssec_score": 3
+},{
+    "domain": "stakedao.org", 
+    "dnssec_score": 3
+},{
+    "domain": "defisaver.com", 
+    "dnssec_score": 3
+},{
+    "domain": "dodoex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.kava.iolend", 
+    "dnssec_score": 3
+},{
+    "domain": "mango.markets", 
+    "dnssec_score": 3
+},{
+    "domain": "notional.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ankr.com", 
+    "dnssec_score": 3
+},{
+    "domain": "sablier.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "staking.benqi.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "stakehound.com", 
+    "dnssec_score": 3
+},{
+    "domain": "quarry.so", 
+    "dnssec_score": 3
+},{
+    "domain": "mento.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "allbridge.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.templedao.link", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bastionprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "lightning.network", 
+    "dnssec_score": 3
+},{
+    "domain": "tranchess.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.tokensets.com", 
+    "dnssec_score": 3
+},{
+    "domain": "radiant.capital#markets", 
+    "dnssec_score": 3
+},{
+    "domain": "badger.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.algofi.org", 
+    "dnssec_score": 3
+},{
+    "domain": "dx.app", 
+    "dnssec_score": 3
+},{
+    "domain": "bridge.terra.money", 
+    "dnssec_score": 3
+},{
+    "domain": "www.orca.so", 
+    "dnssec_score": 3
+},{
+    "domain": "alchemix.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "concentrator.aladdin.club", 
+    "dnssec_score": 3
+},{
+    "domain": "www.opyn.co", 
+    "dnssec_score": 3
+},{
+    "domain": "app.angle.money", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ribbon.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bancor.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.benddao.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "eosauthority.comrexstatistics?network=eos", 
+    "dnssec_score": 3
+},{
+    "domain": "ferroprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kava.io", 
+    "dnssec_score": 3
+},{
+    "domain": "idle.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "yeti.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "staderlabs.com", 
+    "dnssec_score": 3
+},{
+    "domain": "alphafinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "folks.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "neutrino.at", 
+    "dnssec_score": 3
+},{
+    "domain": "app.velodrome.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.mai.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.chainport.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.indexcoop.com", 
+    "dnssec_score": 3
+},{
+    "domain": "katana.roninchain.com#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "injective.com", 
+    "dnssec_score": 3
+},{
+    "domain": "saber.so", 
+    "dnssec_score": 3
+},{
+    "domain": "apeswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "p.network", 
+    "dnssec_score": 3
+},{
+    "domain": "francium.io", 
+    "dnssec_score": 3
+},{
+    "domain": "mm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "across.to", 
+    "dnssec_score": 3
+},{
+    "domain": "pooltogether.com", 
+    "dnssec_score": 3
+},{
+    "domain": "fei.money", 
+    "dnssec_score": 3
+},{
+    "domain": "www.beethovenx.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.maple.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ellipsis.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "convert.canto.io", 
+    "dnssec_score": 3
+},{
+    "domain": "pancakebunny.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nomiswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "kyberswap.com#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "bifrost.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "meshswap.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.tokemak.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "app.burrow.cash#deposit", 
+    "dnssec_score": 3
+},{
+    "domain": "autofarm.network", 
+    "dnssec_score": 3
+},{
+    "domain": "defichain.com", 
+    "dnssec_score": 3
+},{
+    "domain": "yieldyak.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bancor.network", 
+    "dnssec_score": 3
+},{
+    "domain": "apps.acala.networkldot", 
+    "dnssec_score": 3
+},{
+    "domain": "realt.co", 
+    "dnssec_score": 3
+},{
+    "domain": "flamincome.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kokonutswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.spool.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "hop.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "iotube.org", 
+    "dnssec_score": 3
+},{
+    "domain": "polymm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ousd.com", 
+    "dnssec_score": 3
+},{
+    "domain": "mstable.org", 
+    "dnssec_score": 3
+},{
+    "domain": "hello.ooki.com", 
+    "dnssec_score": 3
+},{
+    "domain": "reflexer.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "parallel.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "puddingswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "saddle.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.klimadao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "enzyme.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.morpho.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.mojitoswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "flamingo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "minswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "geist.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "moonwell.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "shibaswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.element.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "cream.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "friktion.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "pangolin.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "apps.acala.networkvault", 
+    "dnssec_score": 3
+},{
+    "domain": "belt.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "wing.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "octusbridge.iobridge", 
+    "dnssec_score": 3
+},{
+    "domain": "swim.io", 
+    "dnssec_score": 3
+},{
+    "domain": "rari.capital", 
+    "dnssec_score": 3
+},{
+    "domain": "tomb.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tokensfarm.com", 
+    "dnssec_score": 3
+},{
+    "domain": "projectlarix.com", 
+    "dnssec_score": 3
+},{
+    "domain": "parrot.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "tonswap.ioswap", 
+    "dnssec_score": 3
+},{
+    "domain": "toucan.earth", 
+    "dnssec_score": 3
+},{
+    "domain": "jpool.one", 
+    "dnssec_score": 3
+},{
+    "domain": "dotdot.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.spartacus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.trisolaris.io#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.xdao.app", 
+    "dnssec_score": 3
+},{
+    "domain": "metapool.app", 
+    "dnssec_score": 3
+},{
+    "domain": "dforce.network", 
+    "dnssec_score": 3
+},{
+    "domain": "waves.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "moneyonchain.com", 
+    "dnssec_score": 3
+},{
+    "domain": "vesper.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "eosauthority.comrex", 
+    "dnssec_score": 3
+},{
+    "domain": "aave.com", 
+    "dnssec_score": 3
+},{
+    "domain": "knightswap.financial", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hashflow.com", 
+    "dnssec_score": 3
+},{
+    "domain": "valasfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "liqee.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.spiritswap.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "harvest.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "klaystation.io", 
+    "dnssec_score": 3
+},{
+    "domain": "reserve.org", 
+    "dnssec_score": 3
+},{
+    "domain": "ib.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "lending.canto.io", 
+    "dnssec_score": 3
+},{
+    "domain": "home.babyswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "izumi.financetradeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "tbtc.network", 
+    "dnssec_score": 3
+},{
+    "domain": "vaults.polymm.financevault", 
+    "dnssec_score": 3
+},{
+    "domain": "www.dopex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "hector.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.liquiddriver.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.stafi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "icon.community", 
+    "dnssec_score": 3
+},{
+    "domain": "connext.network", 
+    "dnssec_score": 3
+},{
+    "domain": "unslashed.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "filda.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lofty.ai", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sharedstake.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sovryn.app", 
+    "dnssec_score": 3
+},{
+    "domain": "app.solarbeam.ioexchangeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "aldrin.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app-v2.acryptos.com", 
+    "dnssec_score": 3
+},{
+    "domain": "defibox.io", 
+    "dnssec_score": 3
+},{
+    "domain": "vestafinance.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "nftx.org", 
+    "dnssec_score": 3
+},{
+    "domain": "hubbleprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "valleyswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.perp.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.echidna.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mercurial.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "solo.top", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lyra.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "crypto.comdefiswap", 
+    "dnssec_score": 3
+},{
+    "domain": "sherlock.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.fantohm.com", 
+    "dnssec_score": 3
+},{
+    "domain": "mimo.capital", 
+    "dnssec_score": 3
+},{
+    "domain": "www.dfyn.network", 
+    "dnssec_score": 3
+},{
+    "domain": "neoburger.iohome", 
+    "dnssec_score": 3
+},{
+    "domain": "moonwell.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.superfluid.financehome", 
+    "dnssec_score": 3
+},{
+    "domain": "swap.thetatoken.orgswap", 
+    "dnssec_score": 3
+},{
+    "domain": "uxd.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.tarot.to", 
+    "dnssec_score": 3
+},{
+    "domain": "linearprotocol.org", 
+    "dnssec_score": 3
+},{
+    "domain": "app.youves.com", 
+    "dnssec_score": 3
+},{
+    "domain": "sunny.ag", 
+    "dnssec_score": 3
+},{
+    "domain": "app.dfx.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "01.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "xff.flr.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "wanswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bprotocol.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.klap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.wombat.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "rhino.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "tokenlon.imimbtc", 
+    "dnssec_score": 3
+},{
+    "domain": "app.sturdy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bifi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.insurace.io", 
+    "dnssec_score": 3
+},{
+    "domain": "singlefinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "truefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "parallel.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "pstake.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "thetanuts.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sundaeswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hummus.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "swaps.mycelium.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.wingriders.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.radioshack.org", 
+    "dnssec_score": 3
+},{
+    "domain": "liquidity-baking.com", 
+    "dnssec_score": 3
+},{
+    "domain": "strike.org", 
+    "dnssec_score": 3
+},{
+    "domain": "kokoa.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "apeswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "paycashswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.apollox.comenAPX", 
+    "dnssec_score": 3
+},{
+    "domain": "www.outcome.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "astroport.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.saucerswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.aurigami.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nereus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "vaults.mm.financevault", 
+    "dnssec_score": 3
+},{
+    "domain": "www.defrost.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "deeplock.io", 
+    "dnssec_score": 3
+},{
+    "domain": "dusd.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.socialswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "fs.bella.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.stellarx.com", 
+    "dnssec_score": 3
+},{
+    "domain": "planetfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "wrapped.com", 
+    "dnssec_score": 3
+},{
+    "domain": "netswap.io#home", 
+    "dnssec_score": 3
+},{
+    "domain": "gainsnetwork.io", 
+    "dnssec_score": 3
+},{
+    "domain": "mux.network", 
+    "dnssec_score": 3
+},{
+    "domain": "clearpool.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "balanced.network", 
+    "dnssec_score": 3
+},{
+    "domain": "llama.airforce", 
+    "dnssec_score": 3
+},{
+    "domain": "mimo.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.rook.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "omm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "claimswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.alexgo.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.defikingdoms.comcrystalvale", 
+    "dnssec_score": 3
+},{
+    "domain": "www.reaper.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "ocp.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "swapr.eth.link#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "yoshi.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.wepiggy.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.yokaiswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "scrt.network", 
+    "dnssec_score": 3
+},{
+    "domain": "gearbox.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "yieldprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gro.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.dhedge.org", 
+    "dnssec_score": 3
+},{
+    "domain": "scream.sh", 
+    "dnssec_score": 3
+},{
+    "domain": "app.kava.ioswappools", 
+    "dnssec_score": 3
+},{
+    "domain": "pickle.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "acala.networkkarura", 
+    "dnssec_score": 3
+},{
+    "domain": "www.oxdao.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "app.arthswap.org#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "concave.lol", 
+    "dnssec_score": 3
+},{
+    "domain": "hundred.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "inverse.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.dystopia.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "cvault.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tbill.io", 
+    "dnssec_score": 3
+},{
+    "domain": "protonloan.com", 
+    "dnssec_score": 3
+},{
+    "domain": "solv.financehome", 
+    "dnssec_score": 3
+},{
+    "domain": "acala.networkkarura", 
+    "dnssec_score": 3
+},{
+    "domain": "www.defikingdoms.com", 
+    "dnssec_score": 3
+},{
+    "domain": "stellaswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "88mph.app", 
+    "dnssec_score": 3
+},{
+    "domain": "cone.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "moonfarm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "jpegd.io", 
+    "dnssec_score": 3
+},{
+    "domain": "o3swap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "aavegotchi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.riskharbor.com", 
+    "dnssec_score": 3
+},{
+    "domain": "port.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "moola.market", 
+    "dnssec_score": 3
+},{
+    "domain": "www.zeta.markets", 
+    "dnssec_score": 3
+},{
+    "domain": "betafinance.org", 
+    "dnssec_score": 3
+},{
+    "domain": "knit.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tinyman.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hedge.so", 
+    "dnssec_score": 3
+},{
+    "domain": "www.guard.insure", 
+    "dnssec_score": 3
+},{
+    "domain": "clipper.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "kaidex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "http:tetu.io", 
+    "dnssec_score": 3
+},{
+    "domain": "interestprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "sashimi.coolhomeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "app.katana.so", 
+    "dnssec_score": 3
+},{
+    "domain": "www.orionprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.astriddao.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "babelfish.money", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lendhub.org", 
+    "dnssec_score": 3
+},{
+    "domain": "nuls.io", 
+    "dnssec_score": 3
+},{
+    "domain": "izumi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "gnosis.io", 
+    "dnssec_score": 3
+},{
+    "domain": "support.exinpool.comen", 
+    "dnssec_score": 3
+},{
+    "domain": "apricot.one#", 
+    "dnssec_score": 3
+},{
+    "domain": "polymarket.com", 
+    "dnssec_score": 3
+},{
+    "domain": "idex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "linktr.eesphynxlabs", 
+    "dnssec_score": 3
+},{
+    "domain": "www.zookeeper.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ichi.org", 
+    "dnssec_score": 3
+},{
+    "domain": "kibbleswap.dog", 
+    "dnssec_score": 3
+},{
+    "domain": "jonesdao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "lumenswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "grizzly.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "definix.comen", 
+    "dnssec_score": 3
+},{
+    "domain": "jarvis.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.algem.io", 
+    "dnssec_score": 3
+},{
+    "domain": "ouchi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.pact.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.penrose.money", 
+    "dnssec_score": 3
+},{
+    "domain": "starlay.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zilswap.ioswap", 
+    "dnssec_score": 3
+},{
+    "domain": "openleverage.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "aave.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.annex.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zenlink.pro", 
+    "dnssec_score": 3
+},{
+    "domain": "agave.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "impermax.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "muesliswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.socean.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "hermes.maiadao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "sienna.network", 
+    "dnssec_score": 3
+},{
+    "domain": "back.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "premia.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "klaybank.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.biconomy.io", 
+    "dnssec_score": 3
+},{
+    "domain": "pendle.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "channels.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tranquil.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bumper.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "tethys.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "prxy.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "smoothy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "honeyswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "app.swappi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.humble.sh", 
+    "dnssec_score": 3
+},{
+    "domain": "www.torches.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "pala.world", 
+    "dnssec_score": 3
+},{
+    "domain": "unifiprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "solidly.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "solidexfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "lendflare.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bullish.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.relaychain.com", 
+    "dnssec_score": 3
+},{
+    "domain": "vitex.net", 
+    "dnssec_score": 3
+},{
+    "domain": "jetfuel.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "yodeswap.dog", 
+    "dnssec_score": 3
+},{
+    "domain": "www.synthetify.io", 
+    "dnssec_score": 3
+},{
+    "domain": "linear.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "swop.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "ubeswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "toros.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kaddex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "granary.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kolibri.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mimas.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.shellprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "xfx.flr.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bakeryswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "apwine.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "cyborgswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "deri.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.xdollar.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.everrise.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.paladin.vote", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cherryswap.net", 
+    "dnssec_score": 3
+},{
+    "domain": "pacoca.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.jetprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "kine.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sifchain.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "symbiosis.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.cream.financeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "nemesisdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "defis.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.avault.network", 
+    "dnssec_score": 3
+},{
+    "domain": "hubble.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.wagyuswap.app", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kalata.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cache.gold", 
+    "dnssec_score": 3
+},{
+    "domain": "ten.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.rubicon.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.protonswap.comswap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hegic.co", 
+    "dnssec_score": 3
+},{
+    "domain": "rift.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.opium.network", 
+    "dnssec_score": 3
+},{
+    "domain": "erasure.world", 
+    "dnssec_score": 3
+},{
+    "domain": "yogi.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gotchivault.com", 
+    "dnssec_score": 3
+},{
+    "domain": "yuzu-swap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "crosschainbridge.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gysr.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gammastrategies.org", 
+    "dnssec_score": 3
+},{
+    "domain": "pembrock.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "klayportal.hashquark.io", 
+    "dnssec_score": 3
+},{
+    "domain": "gardensdao.eth.limo#home", 
+    "dnssec_score": 3
+},{
+    "domain": "floor.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "dogeswap.org#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "clever.aladdin.club", 
+    "dnssec_score": 3
+},{
+    "domain": "www.theidols.io", 
+    "dnssec_score": 3
+},{
+    "domain": "metronome.io", 
+    "dnssec_score": 3
+},{
+    "domain": "aztec.network", 
+    "dnssec_score": 3
+},{
+    "domain": "hakka.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "http:sperax.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.boringdao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.argofinance.money", 
+    "dnssec_score": 3
+},{
+    "domain": "impossible.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "vexchange.ioswap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.mobius.money", 
+    "dnssec_score": 3
+},{
+    "domain": "ftp.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "terraswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "ratio.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "eklipse.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.wonderland.money", 
+    "dnssec_score": 3
+},{
+    "domain": "daomaker.comvault", 
+    "dnssec_score": 3
+},{
+    "domain": "www.secretswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "tinlake.centrifuge.io", 
+    "dnssec_score": 3
+},{
+    "domain": "fantombank.protofi.app", 
+    "dnssec_score": 3
+},{
+    "domain": "surfdex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "mars.poolin.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "perlinx.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ethernity.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.axial.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "fi.woo.org", 
+    "dnssec_score": 3
+},{
+    "domain": "fodl.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.market.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "app.xtokenterminal.io", 
+    "dnssec_score": 3
+},{
+    "domain": "ddex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "voltswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "marsecosystem.comhome", 
+    "dnssec_score": 3
+},{
+    "domain": "jetswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "burgerswap.orgtradeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "ovnstable.io", 
+    "dnssec_score": 3
+},{
+    "domain": "xy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "beamswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "pandora.digital", 
+    "dnssec_score": 3
+},{
+    "domain": "http:tempus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "magik.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "oh.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.unagii.com", 
+    "dnssec_score": 3
+},{
+    "domain": "barnbridge.com", 
+    "dnssec_score": 3
+},{
+    "domain": "ttswap.space#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "app.cronaswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.babylon.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.increment.fiswap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.alchemist.wtf", 
+    "dnssec_score": 3
+},{
+    "domain": "wanlend.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "polkaswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bentfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "acala.networkkarura", 
+    "dnssec_score": 3
+},{
+    "domain": "polycat.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sudoswap.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.plentydefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "blueshift.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "bifrost.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "quipuswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.whaleex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.elyfi.worlden", 
+    "dnssec_score": 3
+},{
+    "domain": "onx.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "depth.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "waterfalldefi.org", 
+    "dnssec_score": 3
+},{
+    "domain": "symmetric.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "center.mesher.io", 
+    "dnssec_score": 3
+},{
+    "domain": "thunderpokt.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.futureswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.crema.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "elasticswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "kalmy.app", 
+    "dnssec_score": 3
+},{
+    "domain": "yieldwolf.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "maiadao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "oolongswap.com#", 
+    "dnssec_score": 3
+},{
+    "domain": "www.piedao.org", 
+    "dnssec_score": 3
+},{
+    "domain": "farming.deotoken.io", 
+    "dnssec_score": 3
+},{
+    "domain": "benswap.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "apps.acala.networkswap", 
+    "dnssec_score": 3
+},{
+    "domain": "app.tzwrap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "nerve.network", 
+    "dnssec_score": 3
+},{
+    "domain": "tracer.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.psyoptions.io", 
+    "dnssec_score": 3
+},{
+    "domain": "rammer.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "stable.mm.financeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "ifpool.io", 
+    "dnssec_score": 3
+},{
+    "domain": "http:www.sio2.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.whiteheart.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "occam-x.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sirius.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kujira.app", 
+    "dnssec_score": 3
+},{
+    "domain": "tidal.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "parallel.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "marginswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zoomswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.unic.ly", 
+    "dnssec_score": 3
+},{
+    "domain": "1inch.io", 
+    "dnssec_score": 3
+},{
+    "domain": "snowball.network", 
+    "dnssec_score": 3
+},{
+    "domain": "play.moonpot.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.spartacus.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.composable.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.robo-vault.com", 
+    "dnssec_score": 3
+},{
+    "domain": "growthdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "kuswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "flux.01.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "puzzleswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "charm.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "llamapay.io", 
+    "dnssec_score": 3
+},{
+    "domain": "mantradao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "horizonprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "elk.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "unifarm.co", 
+    "dnssec_score": 3
+},{
+    "domain": "bolide.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "fiatdao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "azuro.org", 
+    "dnssec_score": 3
+},{
+    "domain": "popsicle.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bscswap.com#list", 
+    "dnssec_score": 3
+},{
+    "domain": "integral.link", 
+    "dnssec_score": 3
+},{
+    "domain": "oakfarm.io", 
+    "dnssec_score": 3
+},{
+    "domain": "spectrum.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "atlantis.loans", 
+    "dnssec_score": 3
+},{
+    "domain": "zipswap.fi#", 
+    "dnssec_score": 3
+},{
+    "domain": "kagla.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "swapsicle.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.taigaprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "hydradex.org#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "soy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "killswitch.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "polysynth.com", 
+    "dnssec_score": 3
+},{
+    "domain": "pangeaswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "optimus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.milkyswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "swap.crodex.app", 
+    "dnssec_score": 3
+},{
+    "domain": "icecreamswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.brahma.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.energiswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "luaswap.org#", 
+    "dnssec_score": 3
+},{
+    "domain": "anchorprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "nerve.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "ottopia.app", 
+    "dnssec_score": 3
+},{
+    "domain": "metavault.trade", 
+    "dnssec_score": 3
+},{
+    "domain": "saros.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cryptex.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zks.orgen", 
+    "dnssec_score": 3
+},{
+    "domain": "www.fractalprotocol.org", 
+    "dnssec_score": 3
+},{
+    "domain": "multiplier.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.baryon.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.goosedefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "ecc.capitalswap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gooddollar.org", 
+    "dnssec_score": 3
+},{
+    "domain": "powerpool.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "debridge.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "gyro.money", 
+    "dnssec_score": 3
+},{
+    "domain": "cyclone.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "goldfinch.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "http:derivadex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "for.tube", 
+    "dnssec_score": 3
+},{
+    "domain": "frakt.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "universe.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "wigoswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.zunami.io", 
+    "dnssec_score": 3
+},{
+    "domain": "compli.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "cvi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.drift.trade", 
+    "dnssec_score": 3
+},{
+    "domain": "www.niifi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.btcst.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.vaporwave.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "www.grim.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gard.money", 
+    "dnssec_score": 3
+},{
+    "domain": "openocean.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "anchorswap.app", 
+    "dnssec_score": 3
+},{
+    "domain": "comb.financial", 
+    "dnssec_score": 3
+},{
+    "domain": "scientix.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "xcarnival.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "app.dem.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bearn.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "app.voltage.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kintsugi.interlay.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.revault.network", 
+    "dnssec_score": 3
+},{
+    "domain": "babena.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "conv.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "steroids.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nftb.io", 
+    "dnssec_score": 3
+},{
+    "domain": "adamant.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bxh.com", 
+    "dnssec_score": 3
+},{
+    "domain": "hyfi.pro", 
+    "dnssec_score": 3
+},{
+    "domain": "glidefinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "indexed.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "moonswap.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "railgun.org", 
+    "dnssec_score": 3
+},{
+    "domain": "unore.io", 
+    "dnssec_score": 3
+},{
+    "domain": "fai.bfly.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.astroswap.app", 
+    "dnssec_score": 3
+},{
+    "domain": "golff.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "dsgmetaverse.com", 
+    "dnssec_score": 3
+},{
+    "domain": "popcorndao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "empyrean.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "orbitalswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.alita.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "apy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "defiplaza.net", 
+    "dnssec_score": 3
+},{
+    "domain": "app.spicetrade.ai", 
+    "dnssec_score": 3
+},{
+    "domain": "tranche.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.oneswap.net", 
+    "dnssec_score": 3
+},{
+    "domain": "www.coinswap.space", 
+    "dnssec_score": 3
+},{
+    "domain": "www.augur.net", 
+    "dnssec_score": 3
+},{
+    "domain": "kogefarm.io", 
+    "dnssec_score": 3
+},{
+    "domain": "astarfarm.com", 
+    "dnssec_score": 3
+},{
+    "domain": "swerve.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "cian.app", 
+    "dnssec_score": 3
+},{
+    "domain": "blockng.money", 
+    "dnssec_score": 3
+},{
+    "domain": "pikaprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "png.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.zappy.financeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "mistswap.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "revest.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.darkcrypto.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cozy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "pizza.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.stackswap.orgswap", 
+    "dnssec_score": 3
+},{
+    "domain": "genshiro.equilibrium.io", 
+    "dnssec_score": 3
+},{
+    "domain": "unidex.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "bnbminer.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "viamover.com", 
+    "dnssec_score": 3
+},{
+    "domain": "sonic.ooo", 
+    "dnssec_score": 3
+},{
+    "domain": "starswap.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "metf.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "pegasys.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "arkadiko.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mint.club", 
+    "dnssec_score": 3
+},{
+    "domain": "www.steakhut.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "alkemi.network", 
+    "dnssec_score": 3
+},{
+    "domain": "drops.co", 
+    "dnssec_score": 3
+},{
+    "domain": "www.darkness.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "claystack.com", 
+    "dnssec_score": 3
+},{
+    "domain": "soul.sh", 
+    "dnssec_score": 3
+},{
+    "domain": "www.nearpad.io", 
+    "dnssec_score": 3
+},{
+    "domain": "matrix.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "volmex.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "iron.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sphere.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "magicland.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "option.dance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.jswap.finance#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "app.apex.exchangetrade", 
+    "dnssec_score": 3
+},{
+    "domain": "www.filet.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "fruitsofryoshi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cometh.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.exinswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.0vix.com", 
+    "dnssec_score": 3
+},{
+    "domain": "wannaswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "pynths.com", 
+    "dnssec_score": 3
+},{
+    "domain": "templar.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.rose.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "wagmidao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "viper.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.chestfinance.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.wardenswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "hunny.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "p.td", 
+    "dnssec_score": 3
+},{
+    "domain": "nested.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "fairyswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "spartanprotocol.org", 
+    "dnssec_score": 3
+},{
+    "domain": "itrust.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sirenmarkets.com", 
+    "dnssec_score": 3
+},{
+    "domain": "carbonswap.exchange#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.unbound.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bridgemutual.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.coverprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.polynomial.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "ponyfinance.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "kdswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.oracleswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.rampdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "cropper.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "makiswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.rabbitfinance.ioearn", 
+    "dnssec_score": 3
+},{
+    "domain": "defily.io#", 
+    "dnssec_score": 3
+},{
+    "domain": "app.pippi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tenderize.me", 
+    "dnssec_score": 3
+},{
+    "domain": "www.foxswap.one", 
+    "dnssec_score": 3
+},{
+    "domain": "app.invictusdao.fi#dashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "eos.atomichub.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.aladdin.club", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hyperjump.app", 
+    "dnssec_score": 3
+},{
+    "domain": "paraluni.org", 
+    "dnssec_score": 3
+},{
+    "domain": "vovo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ocean.one", 
+    "dnssec_score": 3
+},{
+    "domain": "skcs.io", 
+    "dnssec_score": 3
+},{
+    "domain": "smartcredit.io", 
+    "dnssec_score": 3
+},{
+    "domain": "crunchy.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.routerprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "revert.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "penguinfinance.org", 
+    "dnssec_score": 3
+},{
+    "domain": "app.goblin.gold", 
+    "dnssec_score": 3
+},{
+    "domain": "vigor.ai", 
+    "dnssec_score": 3
+},{
+    "domain": "jumbo.exchangeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.yaxis.io", 
+    "dnssec_score": 3
+},{
+    "domain": "alcor.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "floatprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "mirror.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.loop.markets", 
+    "dnssec_score": 3
+},{
+    "domain": "spec.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mochi.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "topshelf.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "rocketswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "pantherswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pylon.money", 
+    "dnssec_score": 3
+},{
+    "domain": "app.increment.fimarkets", 
+    "dnssec_score": 3
+},{
+    "domain": "www.unfederalreserve.com", 
+    "dnssec_score": 3
+},{
+    "domain": "autoshark.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "alphadex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.0xlend.io", 
+    "dnssec_score": 3
+},{
+    "domain": "xdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "tokens.amun.com", 
+    "dnssec_score": 3
+},{
+    "domain": "xeus.finance#stake", 
+    "dnssec_score": 3
+},{
+    "domain": "hunnyswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.earnmos.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "diffusion.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "omnidex.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mean.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "snowswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "dexpad.io", 
+    "dnssec_score": 3
+},{
+    "domain": "padswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "hodl.fox.one", 
+    "dnssec_score": 3
+},{
+    "domain": "basketdao.org", 
+    "dnssec_score": 3
+},{
+    "domain": "dex.globiance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pinkswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "yield.pods.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "union.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "stakesteak.app", 
+    "dnssec_score": 3
+},{
+    "domain": "mahadao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "trava.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cubdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "tapioprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "enterdao.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.warp.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.insuredao.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.fujidao.org", 
+    "dnssec_score": 3
+},{
+    "domain": "app.verocket.com", 
+    "dnssec_score": 3
+},{
+    "domain": "mooniswap.exchange#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "unilend.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "about.just.money", 
+    "dnssec_score": 3
+},{
+    "domain": "domination.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "gibxswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "strudel.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "theanimal.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "hebeswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "cronos.crystl.financelegacyVaults", 
+    "dnssec_score": 3
+},{
+    "domain": "dex.leonicornswap.comhome", 
+    "dnssec_score": 3
+},{
+    "domain": "www.optifi.app", 
+    "dnssec_score": 3
+},{
+    "domain": "unipilot.io", 
+    "dnssec_score": 3
+},{
+    "domain": "swamp.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "float.capital", 
+    "dnssec_score": 3
+},{
+    "domain": "tangoswap.cashswap", 
+    "dnssec_score": 3
+},{
+    "domain": "ante.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ostable.org", 
+    "dnssec_score": 3
+},{
+    "domain": "bluebit.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "sleepearn.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "revenantlabs.io", 
+    "dnssec_score": 3
+},{
+    "domain": "http:evolution.land", 
+    "dnssec_score": 3
+},{
+    "domain": "kord.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "app.vortex.network", 
+    "dnssec_score": 3
+},{
+    "domain": "niob.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "percent.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "pinkpea.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "laserswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "spicyswap.xyz#app", 
+    "dnssec_score": 3
+},{
+    "domain": "photonswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "lendingpond.app", 
+    "dnssec_score": 3
+},{
+    "domain": "mero.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dopple.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pandaswap.xyz#", 
+    "dnssec_score": 3
+},{
+    "domain": "sherpa.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pods.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "eosdt.com", 
+    "dnssec_score": 3
+},{
+    "domain": "tokenlon.im", 
+    "dnssec_score": 3
+},{
+    "domain": "beluga.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "rskswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "valuedefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "yieldly.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "neku.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.predy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "shieldex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "klend.financeapp", 
+    "dnssec_score": 3
+},{
+    "domain": "cafeswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "theparallel.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bigdataprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "xsigma.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.h2odata.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.tswaps.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.huckleberry.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bamboodefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.polydex.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lydia.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "reix.foodcourt.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.redactedcartel.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "emiswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "wingswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "stake.vitc.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.auroraswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.neuronswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "gravityfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "invariant.app", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cook.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "leaguedao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gin.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.velero.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "narwhalswap.org#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "hub.sentre.iowelcome", 
+    "dnssec_score": 3
+},{
+    "domain": "www.peakdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "basis.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "nsure.network", 
+    "dnssec_score": 3
+},{
+    "domain": "wowswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cykura.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.firebird.financeone-pool", 
+    "dnssec_score": 3
+},{
+    "domain": "component.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.tropykus.com", 
+    "dnssec_score": 3
+},{
+    "domain": "hakuswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "metavault.org", 
+    "dnssec_score": 3
+},{
+    "domain": "onavax.com", 
+    "dnssec_score": 3
+},{
+    "domain": "solrise.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "rikkei.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "civfund.org", 
+    "dnssec_score": 3
+},{
+    "domain": "app.algebra.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "defil.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.vesq.io", 
+    "dnssec_score": 3
+},{
+    "domain": "layer2.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sakeperp.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "polyquity.org", 
+    "dnssec_score": 3
+},{
+    "domain": "moonswap.tech", 
+    "dnssec_score": 3
+},{
+    "domain": "thalesmarket.io", 
+    "dnssec_score": 3
+},{
+    "domain": "stakeeasy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "solace.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "unitrade.app", 
+    "dnssec_score": 3
+},{
+    "domain": "furucombo.app", 
+    "dnssec_score": 3
+},{
+    "domain": "electrik.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "lizard.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gogocoin.io", 
+    "dnssec_score": 3
+},{
+    "domain": "btn.group", 
+    "dnssec_score": 3
+},{
+    "domain": "arbswap.ioswap", 
+    "dnssec_score": 3
+},{
+    "domain": "waterloan.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.evmoswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "morpheusswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "investin.pro", 
+    "dnssec_score": 3
+},{
+    "domain": "canary.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "aperocket.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ideamarket.io", 
+    "dnssec_score": 3
+},{
+    "domain": "bodh.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "standard.tech", 
+    "dnssec_score": 3
+},{
+    "domain": "www.vedao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "lifedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "http:www.solily.io", 
+    "dnssec_score": 3
+},{
+    "domain": "bethash.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.smartdex.app", 
+    "dnssec_score": 3
+},{
+    "domain": "hurricaneswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "scion.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "timewarp.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "wasabix.finance#app", 
+    "dnssec_score": 3
+},{
+    "domain": "levinswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "swap.projectserum.com", 
+    "dnssec_score": 3
+},{
+    "domain": "agoradefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.vivafi.org", 
+    "dnssec_score": 3
+},{
+    "domain": "fastyield.app", 
+    "dnssec_score": 3
+},{
+    "domain": "oin.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "duet.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "aelin.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "axion.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ethalend.org", 
+    "dnssec_score": 3
+},{
+    "domain": "cgx.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "thorstarter.org", 
+    "dnssec_score": 3
+},{
+    "domain": "oswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "matterdefi.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "starswap.net", 
+    "dnssec_score": 3
+},{
+    "domain": "avax.olive.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "umami.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.youswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "brinc.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.oxygen.org", 
+    "dnssec_score": 3
+},{
+    "domain": "pureswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.citycoins.co", 
+    "dnssec_score": 3
+},{
+    "domain": "swarm.markets", 
+    "dnssec_score": 3
+},{
+    "domain": "solarflare.io", 
+    "dnssec_score": 3
+},{
+    "domain": "finnexus.io", 
+    "dnssec_score": 3
+},{
+    "domain": "nex.market", 
+    "dnssec_score": 3
+},{
+    "domain": "muuu.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.atlendis.io", 
+    "dnssec_score": 3
+},{
+    "domain": "unipower.network", 
+    "dnssec_score": 3
+},{
+    "domain": "www.oddz.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "cometa.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "augmented.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lago.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "minotaur.money", 
+    "dnssec_score": 3
+},{
+    "domain": "hfi.one#en", 
+    "dnssec_score": 3
+},{
+    "domain": "www.phx.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.gemkeeper.finance#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "metastreet.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "augury.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "http:fantom.potluckprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "sheepdex.org#home", 
+    "dnssec_score": 3
+},{
+    "domain": "app.unit.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.stargate.zone#stake", 
+    "dnssec_score": 3
+},{
+    "domain": "primitive.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "arbinyan.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "yam.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "fusion.novanetwork.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cougarswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.halodao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "shinobi.ubiq.ninja#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "allinx.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bunnypark.com", 
+    "dnssec_score": 3
+},{
+    "domain": "dmd.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "antimatter.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.chickenswap.org#", 
+    "dnssec_score": 3
+},{
+    "domain": "www.poof.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "newdex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "handle.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.archfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.epsylon.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nft20.io", 
+    "dnssec_score": 3
+},{
+    "domain": "tulip.money", 
+    "dnssec_score": 3
+},{
+    "domain": "dddx.io", 
+    "dnssec_score": 3
+},{
+    "domain": "gamblefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.dogmoney.money", 
+    "dnssec_score": 3
+},{
+    "domain": "moonriver.huckleberry.finance#lenddashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "hodltree.io", 
+    "dnssec_score": 3
+},{
+    "domain": "mochiswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "swap.swipe.org", 
+    "dnssec_score": 3
+},{
+    "domain": "valueliquid.io#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "sodaprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "phoenixfi.so", 
+    "dnssec_score": 3
+},{
+    "domain": "timeswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "varen.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.immortaldao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nexusprotocol.app", 
+    "dnssec_score": 3
+},{
+    "domain": "kassandra.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "arbis.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "wheat.growthdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.otwodao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "moremoney.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "stcelo.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "domani.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.yetiswap.app", 
+    "dnssec_score": 3
+},{
+    "domain": "goodghosting.com#", 
+    "dnssec_score": 3
+},{
+    "domain": "paintswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "everlend.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.glitterfinance.org", 
+    "dnssec_score": 3
+},{
+    "domain": "naos.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "timelessfi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.latteswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "lien.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "demeter.xyz#", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pollyfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.fortressdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.miniswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "aperture.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "counterstake.org", 
+    "dnssec_score": 3
+},{
+    "domain": "avaware.network", 
+    "dnssec_score": 3
+},{
+    "domain": "kromatika.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "teddy.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "treedefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "warp.bond", 
+    "dnssec_score": 3
+},{
+    "domain": "koyo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "coffin.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ogx.network#", 
+    "dnssec_score": 3
+},{
+    "domain": "axiaprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "stonedefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "dehive.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "brightunion.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.degen.haus", 
+    "dnssec_score": 3
+},{
+    "domain": "becoswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "steakbank.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ester.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "crowfi.app", 
+    "dnssec_score": 3
+},{
+    "domain": "minmax.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "parrotdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "deltatheta.tech", 
+    "dnssec_score": 3
+},{
+    "domain": "orion.money", 
+    "dnssec_score": 3
+},{
+    "domain": "infinitypad.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.entropyfi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "wild.credit", 
+    "dnssec_score": 3
+},{
+    "domain": "twindex.com#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "yieldfields.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "duckydefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "complus.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "ordernchaos.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dinoswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "new.pop.town", 
+    "dnssec_score": 3
+},{
+    "domain": "inkprotocol.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.defibasket.org", 
+    "dnssec_score": 3
+},{
+    "domain": "http:www.autobark.lol", 
+    "dnssec_score": 3
+},{
+    "domain": "whaleswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kaco.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "http:acoconut.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sumswap.org#", 
+    "dnssec_score": 3
+},{
+    "domain": "nordfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "etcswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "dex.seascape.network#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.phuture.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.enso.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "polywhale.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.tarina.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "baguette.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "app.0.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "app.zyxswap.com#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "mole.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "home.kwikswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "oceanprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.energyfi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "forteswap.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "app.stablekoi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "waka.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.fbomb.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "excalibur.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "app.cennz.netbridge", 
+    "dnssec_score": 3
+},{
+    "domain": "dfi.money", 
+    "dnssec_score": 3
+},{
+    "domain": "ftm.guru", 
+    "dnssec_score": 3
+},{
+    "domain": "minipanther.money#", 
+    "dnssec_score": 3
+},{
+    "domain": "bt.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ysl.io", 
+    "dnssec_score": 3
+},{
+    "domain": "capitaldex.exchange#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "unusdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.erisprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "nomad.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.zencha.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "dokidoki.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "suterusu.io", 
+    "dnssec_score": 3
+},{
+    "domain": "superdad.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.polkaex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "superfarm.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.merlinlab.comfarm", 
+    "dnssec_score": 3
+},{
+    "domain": "www.vacus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "Luxor.money", 
+    "dnssec_score": 3
+},{
+    "domain": "dungeonswap.app", 
+    "dnssec_score": 3
+},{
+    "domain": "ladex.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "app.hpdex.org#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.butterswap.me", 
+    "dnssec_score": 3
+},{
+    "domain": "arrowprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "cgo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "apollo.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "app.atlasusv.com#dashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "alium.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kasavadex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "flamedefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.tendieswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "sportbet.one", 
+    "dnssec_score": 3
+},{
+    "domain": "moon.kafe.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.voltadao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "behodler.io", 
+    "dnssec_score": 3
+},{
+    "domain": "solyard.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "antex.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hswap.com#", 
+    "dnssec_score": 3
+},{
+    "domain": "kebabfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "tesr.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "midascapital.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "app.openswap.one", 
+    "dnssec_score": 3
+},{
+    "domain": "ubq.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "dogepup.dog", 
+    "dnssec_score": 3
+},{
+    "domain": "bondappetit.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.radialfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "m.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.minimax.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "meowswap.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "qbt.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "singular.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "mobius.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "polygonfarm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "whitewhale.money", 
+    "dnssec_score": 3
+},{
+    "domain": "zoocoin.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "cashcowprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "frostfinance.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "www.adaotop.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.daoventures.co", 
+    "dnssec_score": 3
+},{
+    "domain": "mindgames.io", 
+    "dnssec_score": 3
+},{
+    "domain": "saharadao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.dmu.zone", 
+    "dnssec_score": 3
+},{
+    "domain": "cashcow.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dmo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "paprprintr.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "goblins.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cycle.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.arenaswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kavacave.app", 
+    "dnssec_score": 3
+},{
+    "domain": "macaronswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.avai.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bagels.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kryptodex.org", 
+    "dnssec_score": 3
+},{
+    "domain": "zinax.org", 
+    "dnssec_score": 3
+},{
+    "domain": "cobra.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "spin.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "anedak.com", 
+    "dnssec_score": 3
+},{
+    "domain": "orcusfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "greenhousedex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "asol.so", 
+    "dnssec_score": 3
+},{
+    "domain": "fringe.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "hadesswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "double.clubhome", 
+    "dnssec_score": 3
+},{
+    "domain": "rcpswap.com#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "gton.capital", 
+    "dnssec_score": 3
+},{
+    "domain": "governordao.org", 
+    "dnssec_score": 3
+},{
+    "domain": "app.8ight.finance#dashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "auctus.org", 
+    "dnssec_score": 3
+},{
+    "domain": "fluity.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cronusfinance.xyz#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "xweowns.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.oortswap.orghome", 
+    "dnssec_score": 3
+},{
+    "domain": "multichain-miner.net", 
+    "dnssec_score": 3
+},{
+    "domain": "nestprotocol.org", 
+    "dnssec_score": 3
+},{
+    "domain": "verse.bitcoin.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.jupiter-swap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "thoreum.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "shade.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "stabilize.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "omic.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "versa.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kinesislabs.co", 
+    "dnssec_score": 3
+},{
+    "domain": "cryptomate.me", 
+    "dnssec_score": 3
+},{
+    "domain": "quasarswap.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "kronosdao.ai", 
+    "dnssec_score": 3
+},{
+    "domain": "www.powerbomb.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cesta.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "lootswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "lixir.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nextype.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zlot.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "spectrefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "fuzz.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.duneswap.comexchangeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "cybertime.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lemuria.finance#milkomeda", 
+    "dnssec_score": 3
+},{
+    "domain": "devilfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.polydex.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.taichidao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.tropical.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.silo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "home.prismprotocol.app", 
+    "dnssec_score": 3
+},{
+    "domain": "trickortreat.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "fatex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.algodex.comabout", 
+    "dnssec_score": 3
+},{
+    "domain": "app.lachain.ioyield-market", 
+    "dnssec_score": 3
+},{
+    "domain": "fluidtokens.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.agilefi.org", 
+    "dnssec_score": 3
+},{
+    "domain": "safeswap-matic.yfdai.finance#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "thorus.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "app.pearzap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "newland.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dex.swapp.ee#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "goswap.exchange#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.universe.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kokomoswap.io#", 
+    "dnssec_score": 3
+},{
+    "domain": "robiniaswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "bsc.defiwaterfall.com", 
+    "dnssec_score": 3
+},{
+    "domain": "clever.smartdoge.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "vanilladefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bossswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mmo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "xusd.money", 
+    "dnssec_score": 3
+},{
+    "domain": "vee.financehome", 
+    "dnssec_score": 3
+},{
+    "domain": "www.parasset.top#", 
+    "dnssec_score": 3
+},{
+    "domain": "smxswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "kingdefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.croblanc.comfarms", 
+    "dnssec_score": 3
+},{
+    "domain": "cashio.app", 
+    "dnssec_score": 3
+},{
+    "domain": "squidstake.com", 
+    "dnssec_score": 3
+},{
+    "domain": "typhoon.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "corgiswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.boofinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "soluna.money", 
+    "dnssec_score": 3
+},{
+    "domain": "piggy.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "astar.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "app.drachmadefi.io#", 
+    "dnssec_score": 3
+},{
+    "domain": "dex.adax.pro", 
+    "dnssec_score": 3
+},{
+    "domain": "app.partyswap.io#home", 
+    "dnssec_score": 3
+},{
+    "domain": "www.mushrooms.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "fatfire.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hermesdefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "vaulty.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "freeriver.exchange#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "dapp.beglobal.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "yfdai.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "chaotic.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "swapperchan.comswap", 
+    "dnssec_score": 3
+},{
+    "domain": "seeder.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sonicswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "elephant.money", 
+    "dnssec_score": 3
+},{
+    "domain": "1swap.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "app.galaxygoggle.money", 
+    "dnssec_score": 3
+},{
+    "domain": "exchange.briseswap.finance#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.argano.io", 
+    "dnssec_score": 3
+},{
+    "domain": "klondike.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.edgeprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "yape.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "tangent.bar", 
+    "dnssec_score": 3
+},{
+    "domain": "chfry.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "fantasm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.emberswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "genesys.app", 
+    "dnssec_score": 3
+},{
+    "domain": "pegasusdollar.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bscstation.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "stacker.vc", 
+    "dnssec_score": 3
+},{
+    "domain": "scallop.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cofix.io", 
+    "dnssec_score": 3
+},{
+    "domain": "kuu.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.polkamarkets.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.artemisprotocol.one", 
+    "dnssec_score": 3
+},{
+    "domain": "www.v3s.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "fortunedao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "ecodefi.net", 
+    "dnssec_score": 3
+},{
+    "domain": "s.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.alligator.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.thegrandbanks.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.buffer.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "solanax.org", 
+    "dnssec_score": 3
+},{
+    "domain": "crafting.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "amy.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.dogeclaw.games", 
+    "dnssec_score": 3
+},{
+    "domain": "jioswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zabu.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dolphinswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "aquarius.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "polyshield.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dino.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "qilin.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "dogeshrek.com", 
+    "dnssec_score": 3
+},{
+    "domain": "shibafantom.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bishares.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bakerguild.com", 
+    "dnssec_score": 3
+},{
+    "domain": "embr.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "1bch.com", 
+    "dnssec_score": 3
+},{
+    "domain": "blindex.io", 
+    "dnssec_score": 3
+},{
+    "domain": "spacefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "opendao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.amaterasu.finance#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bchpad.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "www.purefi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cryptoswapdex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "farmtom.com", 
+    "dnssec_score": 3
+},{
+    "domain": "gaj.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "koaladefi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tfmindex.js", 
+    "dnssec_score": 3
+},{
+    "domain": "totemfi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "monox.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "stormswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.mercurity.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nava.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "furylabsfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "banksy.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "coslend.com", 
+    "dnssec_score": 3
+},{
+    "domain": "sapphiredefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "spiral.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "dyp.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "illuvium.io", 
+    "dnssec_score": 3
+},{
+    "domain": "symblox.io", 
+    "dnssec_score": 3
+},{
+    "domain": "luchadores.io", 
+    "dnssec_score": 3
+},{
+    "domain": "dracoforce.com", 
+    "dnssec_score": 3
+},{
+    "domain": "milkydex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "catsluck.com", 
+    "dnssec_score": 3
+},{
+    "domain": "skeleton.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "marshmallowdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "vax.mtv.guru", 
+    "dnssec_score": 3
+},{
+    "domain": "www.arbirise.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bencu.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "elephant.ac", 
+    "dnssec_score": 3
+},{
+    "domain": "app.polyyeld.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cyberdog.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "smbswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "smartdex.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "cerberusdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "olivedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "oni.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "flashstake.io", 
+    "dnssec_score": 3
+},{
+    "domain": "raven.scarecrow.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "salem.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "deus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dao.takeprofit.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "swap.defiob.com", 
+    "dnssec_score": 3
+},{
+    "domain": "ifswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "summitdefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.retrodefi.net", 
+    "dnssec_score": 3
+},{
+    "domain": "app.defiwaterfall.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.buffaloswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "fantompup.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "vultureswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "carbonfi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "defimoneyrain.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.chargedefi.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "farmhero.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.hotfriescoin.com", 
+    "dnssec_score": 3
+},{
+    "domain": "wraithswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "1beam.io", 
+    "dnssec_score": 3
+},{
+    "domain": "borgswap.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.polyquail.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "oaswap.financeswap", 
+    "dnssec_score": 3
+},{
+    "domain": "dogefarm.bourbondefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "defirex.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.onering.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "gaiadao.money", 
+    "dnssec_score": 3
+},{
+    "domain": "manifest.gg", 
+    "dnssec_score": 3
+},{
+    "domain": "www.scranton.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cryptoyieldfocus.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.frognation.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "gondola.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "credix.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.yieldhub.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cemetery.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "svn.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "polyroll.org", 
+    "dnssec_score": 3
+},{
+    "domain": "qian.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "croblackbird.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "loterra.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cubo.money", 
+    "dnssec_score": 3
+},{
+    "domain": "app.scarecrow.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "astral.financial#moonbeam", 
+    "dnssec_score": 3
+},{
+    "domain": "smolswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "xfl.flr.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "astral-farm.com", 
+    "dnssec_score": 3
+},{
+    "domain": "bring.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.milko.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "blizzard.network", 
+    "dnssec_score": 3
+},{
+    "domain": "pillarprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "defyswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lowcostswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "theseedfarm.app", 
+    "dnssec_score": 3
+},{
+    "domain": "kyrios.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "dashboard.unbanked.comdashboardyield", 
+    "dnssec_score": 3
+},{
+    "domain": "www.westarter.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.supermanswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "kimochi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ags.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "funbeast.xyzswap", 
+    "dnssec_score": 3
+},{
+    "domain": "chintai.io", 
+    "dnssec_score": 3
+},{
+    "domain": "swapmatic.io", 
+    "dnssec_score": 3
+},{
+    "domain": "heliosprime.live", 
+    "dnssec_score": 3
+},{
+    "domain": "firedao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "pankuku.net", 
+    "dnssec_score": 3
+},{
+    "domain": "www.demodyfi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "kcc.guru", 
+    "dnssec_score": 3
+},{
+    "domain": "auraswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "pandoraswapxyz.org", 
+    "dnssec_score": 3
+},{
+    "domain": "pinyottas.com", 
+    "dnssec_score": 3
+},{
+    "domain": "northpole.money", 
+    "dnssec_score": 3
+},{
+    "domain": "lif3.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "www.nightmarefinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kungfuu.app", 
+    "dnssec_score": 3
+},{
+    "domain": "trustswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.phantom.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "terrafloki.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.liquidrium.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cronofifinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "yumiswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "mint-swap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "aliens.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "honk.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "earnifty.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.stake1.one", 
+    "dnssec_score": 3
+},{
+    "domain": "photonprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "lemonswap.space", 
+    "dnssec_score": 3
+},{
+    "domain": "dapp.spiritdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "genesisfinance.app", 
+    "dnssec_score": 3
+},{
+    "domain": "www.coconuts.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "gemmine.defiwaterfall.com", 
+    "dnssec_score": 3
+},{
+    "domain": "exodia.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "acumen.network", 
+    "dnssec_score": 3
+},{
+    "domain": "sunflowerswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.troydefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "optinyan.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "meowswap.net", 
+    "dnssec_score": 3
+},{
+    "domain": "governordao.org", 
+    "dnssec_score": 3
+},{
+    "domain": "mockingbird.philetairus-socius.com", 
+    "dnssec_score": 3
+},{
+    "domain": "veritable.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.unirex.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "jadeprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "zestprotocol.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.feeder.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "lava.defiwaterfall.com", 
+    "dnssec_score": 3
+},{
+    "domain": "staked.usvrobo-advisor-yield", 
+    "dnssec_score": 3
+},{
+    "domain": "www.nileriver.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pegasusfinance.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "champagneswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sierra.money", 
+    "dnssec_score": 3
+},{
+    "domain": "clayswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "piratedao.money", 
+    "dnssec_score": 3
+},{
+    "domain": "grassland.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "swiftfinance.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "squid-defi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "definer.org", 
+    "dnssec_score": 3
+},{
+    "domain": "strikex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.fenrirfinance.comdashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "vampireswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "grave.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "vapedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.angelprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "peardao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.metapoly.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.knights-of-fantom.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.universe-swap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "deerfi.com#home", 
+    "dnssec_score": 3
+},{
+    "domain": "prophet.ooo", 
+    "dnssec_score": 3
+},{
+    "domain": "www.homecoin.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "spectrumswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "mymine.defiwaterfall.com#farms", 
+    "dnssec_score": 3
+},{
+    "domain": "sahara.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "bearfinance.org", 
+    "dnssec_score": 3
+},{
+    "domain": "jetmine.defiwaterfall.com", 
+    "dnssec_score": 3
+},{
+    "domain": "bastille.bouje.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "tomo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "arbicheems.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "asgarddao.live", 
+    "dnssec_score": 3
+},{
+    "domain": "octane.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "kefirswap.net", 
+    "dnssec_score": 3
+},{
+    "domain": "senpaiswap.com#", 
+    "dnssec_score": 3
+},{
+    "domain": "www.emeraldswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.xrayswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "dracula.sucks", 
+    "dnssec_score": 3
+},{
+    "domain": "thedon.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "vive.bouje.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "adena.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.xmas-past.com", 
+    "dnssec_score": 3
+},{
+    "domain": "arbi.jaguarswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ruby-finance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "test.starbank.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.meso.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "afraswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "mirai.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "www.caribou.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "solanafarm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "newspace.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.icecolony.com", 
+    "dnssec_score": 3
+},{
+    "domain": "tenet.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bubbleswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.philetairus-socius.com", 
+    "dnssec_score": 3
+},{
+    "domain": "dracodefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "defihalal.org", 
+    "dnssec_score": 3
+},{
+    "domain": "thedragonslair.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "www.babypig.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "mapledefi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "omniprotocol.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "2omb.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.metacrono.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "milkyway.sh", 
+    "dnssec_score": 3
+},{
+    "domain": "eggtartswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "bitbtc.money#", 
+    "dnssec_score": 3
+},{
+    "domain": "sunflowerfi.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bourbondao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "openbisea.io", 
+    "dnssec_score": 3
+},{
+    "domain": "hotpot.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "factoryhq.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.defi-milkycow.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kanvas.trade", 
+    "dnssec_score": 3
+},{
+    "domain": "www.shiftdollar.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.moondao.netdashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "sharkswap.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.avaviking.com", 
+    "dnssec_score": 3
+},{
+    "domain": "amogus.money", 
+    "dnssec_score": 3
+},{
+    "domain": "astarnova.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.zeusfinance.app", 
+    "dnssec_score": 3
+},{
+    "domain": "www.vortexdao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "baksdao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "risq.capital", 
+    "dnssec_score": 3
+},{
+    "domain": "ape.avalps.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ketchup.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "rubik.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "www.treehouse-finance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.xensa.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "webribe.me", 
+    "dnssec_score": 3
+},{
+    "domain": "mixswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.astrowar.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "luckychip.io", 
+    "dnssec_score": 3
+},{
+    "domain": "nowswap.org", 
+    "dnssec_score": 3
+},{
+    "domain": "bouje.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "coup.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "papadao.co#stake", 
+    "dnssec_score": 3
+},{
+    "domain": "www.tornadao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "securo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "spadefinance.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "manhattan.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sapphiremine.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "earn.tempodao.gg#stake", 
+    "dnssec_score": 3
+},{
+    "domain": "ftmfrens.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.paladindao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.chadfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "http:lanternswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.undeadfinance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "http:mamadao.co", 
+    "dnssec_score": 3
+},{
+    "domain": "www.mensapro.com", 
+    "dnssec_score": 3
+},{
+    "domain": "sashimidao.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.pidao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "maxi.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "magnetdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "steak.club", 
+    "dnssec_score": 3
+},{
+    "domain": "aada.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cheesedao.xyz#dashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "welnance.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.daodeepsea.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.samodao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "romedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.snowdogdao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "kronosdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "euphoria.money", 
+    "dnssec_score": 3
+},{
+    "domain": "swingdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.blur.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.talentprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "onedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "nirvana.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "valhalladao.app", 
+    "dnssec_score": 3
+},{
+    "domain": "app.icedao.finance#dashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "dios.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.zeroshift.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.asgarddao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.nidhidao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "piggybankdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "thorchain.org", 
+    "dnssec_score": 3
+},{
+    "domain": "devprtcl.com", 
+    "dnssec_score": 3
+},{
+    "domain": "synlev.com", 
+    "dnssec_score": 3
+},{
+    "domain": "n3rd.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "wault.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "rulerprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cardstarter.io", 
+    "dnssec_score": 3
+},{
+    "domain": "longdrink.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "witswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.telx.network", 
+    "dnssec_score": 3
+},{
+    "domain": "ondo.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "avalaunch.app", 
+    "dnssec_score": 3
+},{
+    "domain": "kswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "stake.fsynth.io", 
+    "dnssec_score": 3
+},{
+    "domain": "sunrisegaming-dao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "shapeshift.com", 
+    "dnssec_score": 3
+},{
+    "domain": "banano.cc", 
+    "dnssec_score": 3
+},{
+    "domain": "ecurve.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.bogged.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "bean.money", 
+    "dnssec_score": 3
+},{
+    "domain": "syncbond.com", 
+    "dnssec_score": 3
+},{
+    "domain": "almond.so", 
+    "dnssec_score": 3
+},{
+    "domain": "only1.app", 
+    "dnssec_score": 3
+},{
+    "domain": "swap.cat", 
+    "dnssec_score": 3
+},{
+    "domain": "fegtoken.com", 
+    "dnssec_score": 3
+},{
+    "domain": "orai.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bacondao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "yel.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "smartcoin.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "billionhappiness.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "platform.decubate.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.nasdex.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "fractional.art", 
+    "dnssec_score": 3
+},{
+    "domain": "www.atmossoftdefi.app", 
+    "dnssec_score": 3
+},{
+    "domain": "trade.zigzag.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "squid.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "www.snowbank.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "blizz.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "capital-dao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.axedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.reverseprotocol.one", 
+    "dnssec_score": 3
+},{
+    "domain": "saffron.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sohm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.position.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "paraswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "blackpool.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "everestdao.net", 
+    "dnssec_score": 3
+},{
+    "domain": "app.metaverse.pro", 
+    "dnssec_score": 3
+},{
+    "domain": "radao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "hex.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.rug.farm#dashboard", 
+    "dnssec_score": 3
+},{
+    "domain": "freeliquid.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.lobis.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "arcx.moneypassport", 
+    "dnssec_score": 3
+},{
+    "domain": "alpaca.city", 
+    "dnssec_score": 3
+},{
+    "domain": "retreeb.io", 
+    "dnssec_score": 3
+},{
+    "domain": "zaiprotocol.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "vikings.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "honeyfarm.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "midasdao.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.gizadao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.colonylab.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.pumpkindao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "rivrkitty.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.starterra.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.baseprotocol.org", 
+    "dnssec_score": 3
+},{
+    "domain": "bitpif.com#swap", 
+    "dnssec_score": 3
+},{
+    "domain": "app.ragnarokdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.numbersprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.meritcircle.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.mobox.iohome#iframemomo", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sheeshafinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cakedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sandbox.game", 
+    "dnssec_score": 3
+},{
+    "domain": "brokoli.network", 
+    "dnssec_score": 3
+},{
+    "domain": "nachoxyz.com", 
+    "dnssec_score": 3
+},{
+    "domain": "kittyfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "polkastarter.com#upcoming-projects", 
+    "dnssec_score": 3
+},{
+    "domain": "umbria.network", 
+    "dnssec_score": 3
+},{
+    "domain": "everipedia.org", 
+    "dnssec_score": 3
+},{
+    "domain": "app.spicydao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zodiacdao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "onecash.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "stand.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "arafinance.land", 
+    "dnssec_score": 3
+},{
+    "domain": "www.securedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "optidoge.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "snowcatdao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "agartha.money", 
+    "dnssec_score": 3
+},{
+    "domain": "wisteriaswap.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.louverture.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kawaiiswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "valkyrieprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "staking.umb.network", 
+    "dnssec_score": 3
+},{
+    "domain": "unitefinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "piggyfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.thegoblin.money", 
+    "dnssec_score": 3
+},{
+    "domain": "scarab.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "metareserve.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "xenophon.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "whale.loans", 
+    "dnssec_score": 3
+},{
+    "domain": "rare.fyi", 
+    "dnssec_score": 3
+},{
+    "domain": "galatea.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "www.instrumental.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "chikn.farm", 
+    "dnssec_score": 3
+},{
+    "domain": "www.chronicle.io", 
+    "dnssec_score": 3
+},{
+    "domain": "ferrum.network", 
+    "dnssec_score": 3
+},{
+    "domain": "bananafarm.io", 
+    "dnssec_score": 3
+},{
+    "domain": "predictcoin.finance#", 
+    "dnssec_score": 3
+},{
+    "domain": "www.investvoyager.com", 
+    "dnssec_score": 3
+},{
+    "domain": "karmadao.money", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ovr.ai", 
+    "dnssec_score": 3
+},{
+    "domain": "www.trapeza.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "looksrare.org", 
+    "dnssec_score": 3
+},{
+    "domain": "ultraprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.bomb.money", 
+    "dnssec_score": 3
+},{
+    "domain": "www.crabada.com", 
+    "dnssec_score": 3
+},{
+    "domain": "hermesfinance.app", 
+    "dnssec_score": 3
+},{
+    "domain": "app.kandyland.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "luminous.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.proofofhumanity.id", 
+    "dnssec_score": 3
+},{
+    "domain": "www.delta.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "smartpad.network", 
+    "dnssec_score": 3
+},{
+    "domain": "x.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "fees.wtf", 
+    "dnssec_score": 3
+},{
+    "domain": "www.theopendao.com#sos", 
+    "dnssec_score": 3
+},{
+    "domain": "vyfi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cleopatra-dao.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "tornado.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "rubic.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "grapefinance.app", 
+    "dnssec_score": 3
+},{
+    "domain": "hades.money", 
+    "dnssec_score": 3
+},{
+    "domain": "bloxmove.com", 
+    "dnssec_score": 3
+},{
+    "domain": "noahark.money#", 
+    "dnssec_score": 3
+},{
+    "domain": "specterfinance.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "comfy.money", 
+    "dnssec_score": 3
+},{
+    "domain": "www.poopsicle.wtf", 
+    "dnssec_score": 3
+},{
+    "domain": "magik.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "snowtomb.com", 
+    "dnssec_score": 3
+},{
+    "domain": "dnadollar.com", 
+    "dnssec_score": 3
+},{
+    "domain": "oceanus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "shirotoken.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.unizen.io", 
+    "dnssec_score": 3
+},{
+    "domain": "api3.eth.link#", 
+    "dnssec_score": 3
+},{
+    "domain": "icecreamfinance.app", 
+    "dnssec_score": 3
+},{
+    "domain": "moonflowerfarmers.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.athenamoney.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.treasure.lol", 
+    "dnssec_score": 3
+},{
+    "domain": "dogsofelon.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.meld.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.qao.io", 
+    "dnssec_score": 3
+},{
+    "domain": "app.hexal.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "velhalla.io", 
+    "dnssec_score": 3
+},{
+    "domain": "ripae.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "genso.game", 
+    "dnssec_score": 3
+},{
+    "domain": "basedfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "platinumfi.app", 
+    "dnssec_score": 3
+},{
+    "domain": "projectx.financial#home", 
+    "dnssec_score": 3
+},{
+    "domain": "www.thor.financial#", 
+    "dnssec_score": 3
+},{
+    "domain": "app.vapornodes.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "basis.markets", 
+    "dnssec_score": 3
+},{
+    "domain": "www.manarium.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.dibs.money", 
+    "dnssec_score": 3
+},{
+    "domain": "partial.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.draco.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "arable.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "getwinkies.com", 
+    "dnssec_score": 3
+},{
+    "domain": "croissant.games", 
+    "dnssec_score": 3
+},{
+    "domain": "starcrazy.com", 
+    "dnssec_score": 3
+},{
+    "domain": "kommunitas.net", 
+    "dnssec_score": 3
+},{
+    "domain": "x2y2.io", 
+    "dnssec_score": 3
+},{
+    "domain": "polarisfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "peeldefi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "fdoge.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.impactmarket.com", 
+    "dnssec_score": 3
+},{
+    "domain": "cometfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "wilc.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "2doge.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "pdo.partial.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "snowyowl.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "pulsedao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zombi.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.code7.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "app.mvfinance.club", 
+    "dnssec_score": 3
+},{
+    "domain": "launchpad.seedify.fund", 
+    "dnssec_score": 3
+},{
+    "domain": "zomb2.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "rheadao.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "cryptexlock.me", 
+    "dnssec_score": 3
+},{
+    "domain": "caketomb.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "marsprotocol.io", 
+    "dnssec_score": 3
+},{
+    "domain": "libero.financialapp?lang=en", 
+    "dnssec_score": 3
+},{
+    "domain": "polar-bear.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "drip.community", 
+    "dnssec_score": 3
+},{
+    "domain": "kleros.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.kdlaunch.com#staking", 
+    "dnssec_score": 3
+},{
+    "domain": "ringfi.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.axltoken.com", 
+    "dnssec_score": 3
+},{
+    "domain": "fantoon.com", 
+    "dnssec_score": 3
+},{
+    "domain": "strips.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "ergopad.io", 
+    "dnssec_score": 3
+},{
+    "domain": "peakfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "revuto.com", 
+    "dnssec_score": 3
+},{
+    "domain": "velaspad.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ambire.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.daruma.money", 
+    "dnssec_score": 3
+},{
+    "domain": "singularitydao.ai", 
+    "dnssec_score": 3
+},{
+    "domain": "gov.chain.xyz", 
+    "dnssec_score": 3
+},{
+    "domain": "epns.io", 
+    "dnssec_score": 3
+},{
+    "domain": "trustednode.io", 
+    "dnssec_score": 3
+},{
+    "domain": "scrub.money", 
+    "dnssec_score": 3
+},{
+    "domain": "swapscanner.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.metaland.game", 
+    "dnssec_score": 3
+},{
+    "domain": "printer.financial", 
+    "dnssec_score": 3
+},{
+    "domain": "beta.dual.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.rfox.com", 
+    "dnssec_score": 3
+},{
+    "domain": "app.igniteprotocol.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "zombie-network.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ravelin.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.rubik.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "yup.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.iotexmonstergo.com", 
+    "dnssec_score": 3
+},{
+    "domain": "candlelabs.org", 
+    "dnssec_score": 3
+},{
+    "domain": "0xnodes.io", 
+    "dnssec_score": 3
+},{
+    "domain": "coinflex.comdao", 
+    "dnssec_score": 3
+},{
+    "domain": "shibuidao.com", 
+    "dnssec_score": 3
+},{
+    "domain": "ampere.live", 
+    "dnssec_score": 3
+},{
+    "domain": "bch.domains", 
+    "dnssec_score": 3
+},{
+    "domain": "valerianprotocol.com", 
+    "dnssec_score": 3
+},{
+    "domain": "celery.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "smart.joystick.club", 
+    "dnssec_score": 3
+},{
+    "domain": "http:gametheory.tech", 
+    "dnssec_score": 3
+},{
+    "domain": "murica-money.com", 
+    "dnssec_score": 3
+},{
+    "domain": "pandaland.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "2.olympus-fi.com", 
+    "dnssec_score": 3
+},{
+    "domain": "toxicdeer.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "treasury.coti.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.finance-elf.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.knowtoearn.io", 
+    "dnssec_score": 3
+},{
+    "domain": "www.ames-defi.app", 
+    "dnssec_score": 3
+},{
+    "domain": "www.jelly.io", 
+    "dnssec_score": 3
+},{
+    "domain": "blitzlabs.io", 
+    "dnssec_score": 3
+},{
+    "domain": "cake.monster", 
+    "dnssec_score": 3
+},{
+    "domain": "versagames.io", 
+    "dnssec_score": 3
+},{
+    "domain": "gale.network", 
+    "dnssec_score": 3
+},{
+    "domain": "gaur.money", 
+    "dnssec_score": 3
+},{
+    "domain": "dinopool.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "www.crownfinance.io", 
+    "dnssec_score": 3
+},{
+    "domain": "zeroswap.io", 
+    "dnssec_score": 3
+},{
+    "domain": "swap.vitc.org", 
+    "dnssec_score": 3
+},{
+    "domain": "www.strategyx.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "minto.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "frozenwalrus.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "sideshift.ai", 
+    "dnssec_score": 3
+},{
+    "domain": "uplift.io", 
+    "dnssec_score": 3
+},{
+    "domain": "wtf.defiwaterfall.com", 
+    "dnssec_score": 3
+},{
+    "domain": "bitgert.com", 
+    "dnssec_score": 3
+},{
+    "domain": "www.betswirl.com", 
+    "dnssec_score": 3
+},{
+    "domain": "liquidityfinanc.com", 
+    "dnssec_score": 3
+},{
+    "domain": "metalswap.finance", 
+    "dnssec_score": 3
+},{
+    "domain": "emp.money", 
+    "dnssec_score": 3
+},{
+    "domain": "civfund.org", 
+    "dnssec_score": 3
+},{
+    "domain": "parallel.fi", 
+    "dnssec_score": 3
+},{
+    "domain": "www.cryptoblades.io", 
+    "dnssec_score": 3
+},{
+    "domain": "drachma.exchange", 
+    "dnssec_score": 3
+},{
+    "domain": "wolfsafepoorpeople.com", 
+    "dnssec_score": 3
+},{
+    "domain": "linktr.eeDogeSwapLink", 
+    "dnssec_score": 3
+},{
+    "domain": "www.sudoinu.com", 
+    "dnssec_score": 3
+},{
+    "domain": "dragonfruit.cash", 
+    "dnssec_score": 3
+},{
+    "domain": "championfinance.io", 
+    "dnssec_score": 3
+}]

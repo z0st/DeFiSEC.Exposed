@@ -1,12 +1,99 @@
 /* Global Styling here */
 .column {
-    float: left;
-    width: 25%;
-  }
+  float: left;
+  width: 25%;
+}
   
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 11px 11px;
+    margin: 20px 0px;
+    flex: 1;
   }
+  .text {
+    width: fit-content;
+    border-radius: 11px;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: left;
+  }
+  .protocol_logo {
+    width: 40px;
+    border-radius: 128px;
+    margin-right: 18px;
+  }
+  .label_globalscore {
+    display: none !important;
+  }
+  .contact_button {
+    width: auto;
+    margin-top: 18px;
+  }
+  .button_text {
+    font-size: 11px;
+  }
+  .score {
+    padding: 11px 0px !important;
+    margin: auto;
+  }
+  .score_text {
+    text-align: center;
+    font-size: 11px;
+    font-weight: 500;
+    margin-bottom: 3px;
+  }
+  .header_text {
+    font-size: 16px;
+    padding-right: 11px;
+    font-weight: 500;
+  }
+  .body_text {
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 72px;
+  }
+}
+
+@media (min-width: 769px) {
+  .container {
+    padding: 11px 11px;
+    margin: 20px 0px;
+    flex: 1;
+  }
+  .text {
+    width: fit-content;
+    border-radius: 11px;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: left;
+  }
+  .protocol_logo {
+    width: 45px;
+    border-radius: 128px;
+    margin-right: 18px;
+  }
+  .contact_button {
+    width: 100%;
+    margin-top: 18px;
+  }
+  .button_text {
+    font-size: 16px;
+  }
+  .header_text {
+    font-size: 28px;
+    padding-right: 11px;
+    font-weight: 500;
+  }
+  .body_text {
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 100px;
+  }
+}

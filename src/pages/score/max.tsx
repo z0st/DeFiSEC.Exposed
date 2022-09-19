@@ -137,10 +137,9 @@ const Home = () => {
           Sort
         </MenuButton>
         <MenuList>
-          <MenuItem><Link href="/tvl/max-tvl">Max to Min TVL</Link></MenuItem>
-          <MenuItem><Link href="/tvl/min-tvl">Min to Max TVL</Link></MenuItem>
-          <MenuItem><Link href="/score/max">Max general score</Link></MenuItem>
-          <MenuItem><Link href="/score/min">Min general score</Link></MenuItem>
+          <MenuItem>Min to Max TVL</MenuItem>
+          <MenuItem><Link href="/tvl/min-tvl">Max to Min TVL</Link></MenuItem>
+          <MenuItem>By general score</MenuItem>
         </MenuList>
       </Menu>
       <br />

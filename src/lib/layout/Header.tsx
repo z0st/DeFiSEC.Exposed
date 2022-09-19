@@ -4,15 +4,10 @@ import {
   Heading,
   Input,
   InputGroup,
-  InputRightElement,
   Text,
-  SearchIcon
 } from "@chakra-ui/react";
 import Link from "next/link";
 import { useState } from "react";
-
-import protocols_data from "../../protocols_data"
-import { Search } from "lib/components/Search";
 
 import ThemeToggle from "./ThemeToggle";
 
@@ -20,12 +15,9 @@ const Header = () => {
   const [value, setValue] = useState('');
   return (
     <Flex as="header" width="full" align="center">
-      <Heading as="h1" size="md">
+      <Text className="header_text">
         <Link href="/">DeFiSEC.exposed</Link>
-        <Text textAlign="right" fontWeight="normal" fontSize="xs">
-          by CIROVE
-        </Text>
-      </Heading>
+      </Text>
 
       <Box marginLeft="auto" display="flex">
         <InputGroup>
