@@ -19,6 +19,7 @@ const Search = ({ query, setQuery }) => (
                 size="sm"
                 fontWeight="medium"
                 onChange={(e) => setQuery(e.target.value)}
+                cursor="pointer"
             />
         </InputGroup>
         <ThemeToggle />
