@@ -18,7 +18,7 @@ const Search = ({ query, setQuery }) => (
                 placeholder="Search..."
                 size="sm"
                 fontWeight="medium"
-                onChange={(e) => setQuery(e.target.value)}
+                onEvent={(e) => setQuery(e.target.value)}
             />
         </InputGroup>
         <ThemeToggle />
