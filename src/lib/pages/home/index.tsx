@@ -1,16 +1,11 @@
 import * as react from "@chakra-ui/react";
 
-import CTASection from "lib/components/samples/CTASection";
-import SomeImage from "lib/components/samples/SomeImage";
-import SomeText from "lib/components/samples/SomeText";
-
-import InfiniteScroll from "react-infinite-scroll-component";
 import { useEffect, useState } from "react";
 
 import protocols_data from 'protocols_data';
-import emails_score from 'email_score_28-08-2022';
-import dnssec_score from 'DNS_score_28-08-2022';
-import certs_score from 'certificate_score_28-08-2022';
+import emails_score from 'email_score_18-09-2022';
+import dnssec_score from 'DNS_score_18-09-2022.json';
+import certs_score from 'certificate_score_18-09-2022.json';
 import general_score from 'general_score';
 
 import { ReactElement, JSXElementConstructor, ReactFragment, ReactPortal } from "react";
@@ -18,7 +13,11 @@ import { AddIcon, ChevronDownIcon, InfoIcon } from "@chakra-ui/icons";
 import { RiMoneyDollarBoxFill, RiMoneyDollarBoxLine, RiMoneyDollarCircleFill, RiMoneyDollarCircleLine } from "react-icons/ri";
 import { AiFillDollarCircle, AiOutlineDollar, AiOutlineDollarCircle, AiTwotoneDollar } from "react-icons/ai";
 import React from "react";
-import { Button, Link, Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react";
+import { Button, Link, Menu, MenuButton, MenuItem, MenuList, Box, Flex, Heading, Input, InputGroup, Text } from "@chakra-ui/react";
+
+import ThemeToggle from "lib/layout/ThemeToggle";
+
+import Search from "../../components/Search";
 
 const Home = () => {
 
@@ -28,7 +27,7 @@ const Home = () => {
     setCount(count+10);
   }
 
-  function kFormatter(num) {
+  function kFormatter(num: number) {
     return Math.abs(num) > 999
       ? Math.sign(num) * (Math.abs(num) / 1000000000).toFixed(1) + "B"
       : Math.sign(num) * Math.abs(num);
@@ -54,8 +53,29 @@ const Home = () => {
   const { isOpen, onOpen, onClose } = react.useDisclosure()
   const [overlay, setOverlay] = React.useState(<OverlayOne />)
 
+  const [ query, setQuery ] = useState('')
+  
+  const filterProtocols = (protocols_data: any, query: string) => {
+    if (!query) {
+        return protocols_data;
+    }
+
+    return protocols_data.filter((protocol_data: { name: string; }) => {
+      const protocolName = protocol_data.name.toLowerCase();
+      return protocolName.includes(query);
+    });
+  };
+
+  console.log(query)
+
+  const filteredProtocols = filterProtocols(protocols_data, query);
+
   return (
     <react.Box alignItems="center" minHeight="10vh" gap={20} mb={8} w="full">
+      <Search
+        query={query}
+        setQuery={setQuery}
+      />
       <react.Text className="body_text">
       DeFiSEC.Exposed is an application whose purpose is that the crypto community can know the security status of the protocols
       they use with the aim of providing knowledge and awareness of how important security is.
@@ -145,7 +165,7 @@ const Home = () => {
       </Menu>
       <br />
       <br />
-        {protocols_data.slice(0, count).map(protocol_data => 
+        {filteredProtocols.slice(0, count).map((protocol_data: { logo: React.Key | null | undefined; name: boolean | React.Key | ReactElement<any, string | JSXElementConstructor<any>> | ReactFragment | null | undefined; tvl: any; description: boolean | React.Key | ReactElement<any, string | JSXElementConstructor<any>> | ReactFragment | null | undefined; }) => 
           <react.Accordion allowToggle mb={5}>
           <react.AccordionItem borderRadius={11}>
             <h2>
@@ -167,7 +187,7 @@ const Home = () => {
                   <react.Text mt={4} fontSize={14} textAlign={"left"} key={protocol_data.description}>{protocol_data.description}</react.Text>
                 </react.Box>
                 <react.Text className="label_globalscore" mr={1} fontSize={"sm"} fontWeight={"light"}>Global score</react.Text>
-                {general_score.slice(start++, end++).map(general_score =>
+                {general_score.slice(start++, end++).map((general_score: { general_score: string | number | boolean | ReactElement<any, string | JSXElementConstructor<any>> | ReactFragment | null | undefined; }) =>
                 <react.CircularProgress
                   size="54px"
                   thickness="5px"
@@ -189,7 +209,7 @@ const Home = () => {
                 <react.Table variant="simple">
                   <react.Tbody>
                     <react.Tr>
-                      {emails_score.slice(start++, end++).map(email_score =>
+                      {emails_score.slice(start++, end++).map((email_score: { email_score: string | number | boolean | ReactElement<any, string | JSXElementConstructor<any>> | ReactFragment | null | undefined; }) =>
                         <react.Td className="score">
                           <center>
                             <react.Text className="score_text">Email</react.Text>
